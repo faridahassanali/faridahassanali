@@ -1,5 +1,94 @@
-# 💫 About Me:
-👋 Hi, I'm Farida — where curiosity meets code, and data tells stories 🌍<br><br>🧠  I'm a Software Engineering student at Egyptian Chinese University<br>     who got completely obsessed with AI and never looked back<br><br>👁️  My favorite superpower? Computer Vision — teaching machines to SEE 🤩<br>     Because making a model understand an image feels like pure magic<br><br>🤖  What I build:<br>     → Computer Vision models that make sense of the visual world<br>     → LSTM text classifier that reads & understands human language in real-time<br>     → Customer clustering models that find hidden patterns in behavior<br>     → ML pipelines & data experiments from my AI Diploma journey<br><br>📊  My world lives between Python scripts and Jupyter notebooks —<br>     but a new chapter in Full-Stack development is just beginning 🌐<br><br>🌱  Currently leveling up: Web Dev<br>     Always leveling up: Computer Vision · NLP · AI · Data Science<br><br>⚡  Fun fact: I build models that can see AND understand human language...<br>     yet somehow I still can't see my own bugs until 2AM 🤫<br><br>⚡and I'm simultaneously training a model and myself<br><br>🔍 Always asking "what does this data actually tell us?"<br><br>🚀  The goal? Go from model training → full product deployment<br>     One commit at a time. One breakthrough at a time.
+<!-- Header -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Hi%20there,%20I'm%20Farida!%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Where%20curiosity%20meets%20code,%20and%20data%20tells%20stories%20🌍&descAlignY=58&descSize=16" width="100%"/>
+
+</div>
+
+---
+
+<!-- About Me -->
+## 🌟 About Me
+
+> *"I got completely obsessed with AI and never looked back"*
+
+I'm a **Software Engineering student** at **Egyptian Chinese University** on a mission to build things that think, see, and understand the world 🤖✨
+
+- 👁️ **My favorite superpower?** Computer Vision — teaching machines to **SEE**. Making a model understand an image feels like pure magic 🤩
+- 📊 My world lives between Python scripts and Jupyter notebooks
+- 🌐 A new chapter in **Full-Stack development** is just beginning
+- 🔍 Always asking: *"what does this data actually tell us?"*
+- ⚡ Fun fact: I'm simultaneously training a model **and** myself — the learning never stops
+
+---
+
+<!-- What I Build -->
+## 🤖 What I Build
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 👁️ **Computer Vision Models** ★ | Making machines understand the visual world | Python · OpenCV · Deep Learning |
+| 🧠 **LSTM Text Classifier** | Reads & understands human language in real-time | Python · BiLSTM · Streamlit |
+| 🛍️ **Customer Clustering** | Reveals hidden behavioral patterns in data | Sklearn · Jupyter · ML |
+| 🔬 **ML Pipelines & Experiments** | End-to-end data science workflows | Python · Pandas · Numpy |
+
+---
+
+<!-- Skills -->
+## 🛠️ Skills & Tools
+
+<!-- AI/ML -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<!-- Data -->
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+<!-- Web (learning) -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+<!-- Focus Areas -->
+## 🎯 My Focus Areas
+
+```
+★  Computer Vision      ████████████████████  Favorite 🤩
+   Machine Learning     ██████████████████░░  Strong
+   NLP & Deep Learning  █████████████████░░░  Strong
+   Data Science         ████████████████░░░░  Growing
+   Full-Stack Dev       ████████░░░░░░░░░░░░  Learning 🌱
+```
+
+---
+
+<!-- Fun Facts -->
+## ⚡ Fun Facts
+
+- 🤫 I build models that can **see AND understand human language** — yet somehow I still can't see my own bugs until 2AM
+- 🔁 I'm simultaneously **training a model and myself**
+- 🔍 I'm always asking *"what does this data actually tell us?"*
+- 🎓 Forever a student — because in AI, the learning truly never stops
+
+---
+
+<!-- Goal -->
+## 🚀 The Goal
+
+> **Go from model training → full product deployment**
+>
+> *One commit at a time. One breakthrough at a time.*
+
+---
+</div>
 
 
 ## 🌐 Socials:
